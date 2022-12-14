@@ -69,3 +69,5 @@ application-local.properties
 ws-test.html
 
 target/
+
+gamgen-firestore.json
